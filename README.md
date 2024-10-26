@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm João Perez, a budding developer ready to explore, learn, and collaborate on interesting projects. 🤖🤖
  <div>
    <a href="https://github.com/JonPer3z">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonPer3z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
