@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará alguns dos projetos que de
 
 ## 🎓 Sobre Mim
 
-Sou um programador apaixonado por tecnologia, atualmente cursando **Gestão de Tecnologia da Informação** na faculdade e **Desenvolvimento de Sistemas** no curso técnico. Ao longo da minha jornada, venho aprendendo e aplicando conceitos de **desenvolvimento de software**, **gestão de projetos**, **infraestrutura de TI** e **transformação digital**.
+Sou um programador apaixonado por tecnologia, atualmente cursando **Gestão de Tecnologia da Informação** no Centro Universitário Central Paulista - UNICEP e **Desenvolvimento de Sistemas** no curso técnico. Ao longo da minha jornada, venho aprendendo e aplicando conceitos de **desenvolvimento de software**, **gestão de projetos**, **infraestrutura de TI** e **transformação digital**.
 
 Meu objetivo é expandir meus conhecimentos, contribuir para projetos open source e aprimorar minhas habilidades no desenvolvimento de soluções inovadoras.
 
