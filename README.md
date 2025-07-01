@@ -10,9 +10,9 @@ Sou um desenvolvedor júnior apaixonado por tecnologia, atualmente cursando Gest
 
 Meu principal objetivo é evoluir profissionalmente como desenvolvedor full stack, contribuindo com soluções inovadoras, participando de projetos open source e me especializando cada vez mais em tecnologias modernas e boas práticas de desenvolvimento.
 
-
-
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 🧠 Competências técnicas.
 <div style="display: inline_block"><br>
