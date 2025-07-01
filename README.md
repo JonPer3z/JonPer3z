@@ -11,8 +11,10 @@ Sou um desenvolvedor júnior apaixonado por tecnologia, atualmente cursando Gest
 Meu principal objetivo é evoluir profissionalmente como desenvolvedor full stack, contribuindo com soluções inovadoras, participando de projetos open source e me especializando cada vez mais em tecnologias modernas e boas práticas de desenvolvimento.
 
 ---
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonPer3z)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=JonPer3z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JonPer3z&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=V1ct0rhugo22)
+
 
 ## 🧠 Competências técnicas.
 <div style="display: inline_block"><br>
