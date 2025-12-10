@@ -37,7 +37,7 @@ Atualmente meu foco está em:
 ## 🛠️ Tech Stack & Ferramentas
   <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui,bootstrap,java,spring,postman,mysql,postgresql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,materialui,bootstrap,java,spring,postman,mysql,postgresql,git,github&theme=dark" />
   <br><br>
 
 ---
