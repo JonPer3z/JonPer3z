@@ -45,11 +45,6 @@ Atualmente meu foco está em:
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=vision-friendly-dark&title_color=2699E6&icon_color=2699E6&text_color=FFFFFF&bg_color=000000&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=vision-friendly-dark&title_color=2699E6&text_color=FFFFFF&bg_color=000000&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&theme=highcontrast&hide_border=true&ring=2699E6&fire=2699E6&currStreakLabel=2699E6" />
-</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JonPer3z&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
