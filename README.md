@@ -51,6 +51,10 @@ Atualmente meu foco está em:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&theme=highcontrast&hide_border=true&ring=2699E6&fire=2699E6&currStreakLabel=2699E6" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JonPer3z&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
+</p>
+
 <br>
 
 ## 📫 Contato & Portfólio
